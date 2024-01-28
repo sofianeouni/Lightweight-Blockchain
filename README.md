@@ -1,5 +1,6 @@
 # Lightweight-Blockchain (version1)
 Copyright : This Work is done by :  Ouni Sofiane, Rabeb Ben Othmen Rabeb, Wassim Abbessi, Wafa Badreddine,  Gilles Dequen
+
 CRISTAL Laboratory, RAMSIS Team, ENSI, Manouba University
 And
 Laboratoire Modelisation, Information, Systemes (MIS), Universite de Picardie Jules Verne
